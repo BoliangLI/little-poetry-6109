@@ -50,7 +50,7 @@ const Home = () => {
 
               {/* Title */}
               <h1 className="text-3xl font-bold text-foreground mb-8">
-                创意在这里萌芽3333
+                创意在这里萌芽4444
               </h1>
 
               {/* Chat Input */}
